@@ -19,13 +19,13 @@
 
 Welcome to the official GitHub organization for the **Department of Statistics & Computer Science**, University of Kelaniya! This is the central hub where our brilliant students collaborate, build, and showcase their academic and extracurricular tech projects.
 
-From fundamental coursework assignments to groundbreaking Final Year Projects, this space is dedicated to fostering innovation, open-source contribution, and teamwork.
+From core module assignments to advanced degree projects, this space is dedicated to fostering innovation, open-source contribution, and teamwork.
 
 ---
 
 ## 🚀 Need a Repository for Your Project?
 
-Are you a student starting a new coursework or degree project? You can request an official, private GitHub repository here within seconds.
+Are you a student starting a new module project? You can request an official, private GitHub repository here within seconds.
 
 <div align="center">
   <br>
@@ -35,11 +35,10 @@ Are you a student starting a new coursework or degree project? You can request a
   <br><br>
 </div>
 
-### What we host:
+### Supported Modules:
 
-- 💻 **Coursework (`co2060`)** - Foundation and core programming projects.
-- 🛠️ **3rd Year Projects (`3yp`)** - Advanced group projects and real-world software engineering.
-- 🎓 **Final Year Projects (`4yp`)** - Research and enterprise-grade system development.
+- 💻 **`fssd`** - COSC 32133 / BECS 32263 – Full-Stack Software Development (24/25)
+*(More modules will be added here as they are supported!)*
 
 ---
 
