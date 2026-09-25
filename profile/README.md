@@ -3,7 +3,7 @@
     <img src="logo/logo2.png" alt="SCSSA Logo" width="200" />
   </a>
 
-  <h1>🎓 Welcome to our GitHub Hub!</h1>
+  <h1>🎓 Welcome to UOK DSCS Hub!</h1>
   <p><strong>Department of Statistics & Computer Science • University of Kelaniya</strong></p>
   
   <p>
