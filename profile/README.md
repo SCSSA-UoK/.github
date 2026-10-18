@@ -42,18 +42,6 @@ Are you a student starting a new module project? You can request an official, pr
 
 ---
 
-## 📈 Tech Stack & Languages
-
-Our students work with a diverse set of modern technologies to build their solutions:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,c,html,css,react,nodejs,express,mysql,mongodb,git,github,docker,aws,linux&theme=light" />
-  </a>
-</p>
-
----
-
 ## 🏆 Top Repositories & Resources
 
 - 📌 **[Project Requests](https://github.com/SCSSA-UoK/project-requests)** - The automated portal to request your project workspace.
